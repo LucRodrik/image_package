@@ -27,6 +27,3 @@ resized_image = resize_image(grayscale_image, 100, 100)
 
 ```
 
-## Author
-
-LucRodrik
